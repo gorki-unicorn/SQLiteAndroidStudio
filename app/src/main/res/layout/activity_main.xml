@@ -15,10 +15,11 @@
         android:text="Employee Information"
         android:textSize="25sp"
         android:background="#4CAF50"
+        android:padding="12dp"
         />
 
     <Button
-        android:id="@+id/clickme"
+        android:id="@+id/clkme"
         android:layout_width="match_parent"
         android:layout_height="65dp"
         android:text="Click Me"
@@ -27,6 +28,6 @@
         android:layout_marginTop="85dp"
         android:background="#4CAF50"
         android:textSize="15sp"
-        android:onClick="startdbapp"   />
+           />
 
 </RelativeLayout>
